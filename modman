@@ -1,0 +1,4 @@
+src/app/code/core/Mage/Install/             app/code/core/Mage/Install/
+src/app/design/install/                     app/design/install/
+src/app/etc/modules/Mage_Install.xml        app/etc/modules/Mage_Install.xml
+src/app/locale/en_US/Mage_Install.csv       app/locale/en_US/Mage_Install.csv
